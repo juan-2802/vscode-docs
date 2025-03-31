@@ -1,0 +1,16 @@
+
+body{
+    background-image: url(/imagen-fondo.jpg);
+    background-image: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
